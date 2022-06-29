@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlainTiri
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning AI - Data science at @BeCode.org
+- 👀 I’m interested in NLP, data mining, ML...
+- 🌱 I’m Data scientist at IPM Group
 - You can contact me for an open source project who needs AI
 - 📫 You can reach me via LinkedIn
 
